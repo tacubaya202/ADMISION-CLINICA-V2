@@ -17,7 +17,6 @@ body {
   background: #f1f5f9;
   color: #0f172a;
   font-family: Arial, Helvetica, sans-serif;
-  -webkit-text-size-adjust: 100%;
 }
 
 button,
@@ -28,12 +27,6 @@ textarea {
 
 button {
   cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-}
-
-input,
-textarea {
-  max-width: 100%;
 }
 
 textarea {
